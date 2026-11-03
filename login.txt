@@ -1,0 +1,9 @@
+Laboratorio Git y GitHub
+
+Funcionalidad: Login de usuarios
+
+Se inicia el desarrollo de una funcionalidad
+para permitir el inicio de sesión de usuarios.
+
+Rama de trabajo: feature-login
+Estado: En desarrollo
